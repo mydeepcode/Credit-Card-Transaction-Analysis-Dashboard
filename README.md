@@ -86,7 +86,7 @@ Banks and credit card providers need to **track spending patterns, detect oversp
 ---
 
 🖼️**Here is the link:**
-[View Full Dashboard Image]()
+[View Full Dashboard Image](https://github.com/mydeepcode/Credit-Card-Transaction-Analysis-Dashboard/blob/main/Credit%20Card%20Transaction%20Analysis%20Dashboard.png)
 ---
 
 ## 📎 Extras
